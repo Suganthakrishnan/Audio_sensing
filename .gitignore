@@ -1,0 +1,24 @@
+# Gradle / Android build output
+.gradle/
+.gradle-home/
+build/
+**/build/
+
+# Local Android/IDE machine state
+local.properties
+.android-sdk/
+.downloads/
+.kotlin/
+.idea/caches/
+.idea/workspace.xml
+.idea/deploymentTargetSelector.xml
+.idea/deviceManager.xml
+.idea/deviceHardwareInput.xml
+
+# Generated preview/demo artifacts
+manual-preview/build/
+emulator-*.png
+
+# OS files
+.DS_Store
+Thumbs.db
